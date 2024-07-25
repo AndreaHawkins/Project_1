@@ -1,2 +1,2 @@
 # Project_1
-This is a project for the data analysis digital badge.
+This is an project example for the data analysis.
